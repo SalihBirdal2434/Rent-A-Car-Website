@@ -62,21 +62,37 @@ Bu projeyi istediğiniz bir PHP sunucusunda (örn. XAMPP, Laragon vb.) çalışt
 Proje içinde yer alan başlıca dosya ve klasörler:
 
 ├── about.php # Hakkımızda sayfası (PHP) 
+
 ├── about.css # Hakkımızda sayfasının stil dosyası 
+
 ├── app.js # Giriş/Kayıt form animasyonları (JS) 
+
 ├── bsx.php # Ek PHP dosyası (detaylı işlevsellik için) 
+
 ├── bsx.css # Global stil, renk ve tipografi ayarları 
+
 ├── database.php # Veritabanı bağlantı ayarları (PHP) 
+
 ├── index.txt # Ana sayfa içerik düzeni ve referans metni 
+
 ├── login.php # Kullanıcı giriş ve kayıt sayfası (PHP) 
+
 ├── new_blog.php # Blog gönderisi ekleme sayfası (PHP) 
+
 ├── new_blog.css # Blog ekleme formu stil dosyası 
+
 ├── rent.php # Araç kiralama sayfası (PHP) 
+
 ├── rent.css # Araç kiralama sayfası stil dosyası 
+
 ├── save_post.php # Blog gönderisi kaydetme işlemleri (PHP) 
+
 ├── script.js # Navbar ve scroll animasyonları (JS) 
+
 ├── style.css # Genel stil ve responsive tasarım (CSS) 
+
 ├── style-guide.md # Tasarım rehberi (renkler, fontlar, vs.) 
+
 └── ... # Diğer destekleyici dosyalar
 
 

@@ -1,0 +1,59 @@
+/* Genel stil ayarları */
+body {
+  font-family: "Nunito", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Üst bar */
+.top-bar {
+  background-color: #666666;
+  color: black;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 2rem;
+}
+
+/* Form konteyneri */
+.form-container {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Form elemanları */
+form label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+  color: black;
+}
+
+form input[type="text"],
+form input[type="date"],
+form input[type="file"],
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+/* Button stilleri */
+form button {
+  background-color: #666666;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
